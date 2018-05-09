@@ -10,7 +10,7 @@ import UIKit
 
 class ToDoListViewController: UITableViewController {
 
-    var itemsArray = ["get eggs" , "buy milk" , "buy some banana"]
+    var itemsArray = ["get eggs" , "buy cheese" , "buy some banana" , "buy milk"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
